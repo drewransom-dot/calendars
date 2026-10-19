@@ -1,5 +1,359 @@
 {
-  "socal": [],
-  "national": [],
-  "international": []
+  "socal": [
+    {
+      "id": "lacma-brockman",
+      "title": "The Brockman Gallery: Los Angeles, 1967–1990",
+      "start": "2026-10-18",
+      "end": "2027-01-24",
+      "location": "LACMA, Los Angeles",
+      "url": "https://www.lacma.org/art/exhibitions/current",
+      "description": ""
+    },
+    {
+      "id": "lacma-textile",
+      "title": "Textile Alchemy: The Art of Reiko Sudo & NUNO",
+      "start": "2026-09-20",
+      "end": "2027-03-07",
+      "location": "LACMA, Los Angeles",
+      "url": "https://www.lacma.org/art/exhibitions/current",
+      "description": ""
+    },
+    {
+      "id": "lacma-cowin",
+      "title": "Eileen Cowin: Between Panic and Paradise",
+      "start": "2026-08-23",
+      "end": "2027-01-03",
+      "location": "LACMA, Los Angeles",
+      "url": "https://www.lacma.org/art/exhibitions/current",
+      "description": ""
+    },
+    {
+      "id": "lacma-williams",
+      "title": "Paul R. Williams: Architect for Living",
+      "start": "2026-11-15",
+      "end": "2027-05-31",
+      "location": "LACMA, Los Angeles",
+      "url": "https://www.lacma.org/art/exhibitions/upcoming",
+      "description": ""
+    },
+    {
+      "id": "lacma-roberto",
+      "title": "Roberto Gil de Montes: Water Drops on Burning Rocks",
+      "start": "2026-12-20",
+      "end": "2027-06-20",
+      "location": "LACMA, Los Angeles",
+      "url": "https://www.lacma.org/art/exhibitions/upcoming",
+      "description": ""
+    },
+    {
+      "id": "moca-times",
+      "title": "In These Times: Recent Acquisitions at MOCA",
+      "start": "2026-09-20",
+      "end": "2027-01-03",
+      "location": "MOCA Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "moca-apostol",
+      "title": "Alexander Apóstol: Regime, Dramatis Personae",
+      "start": "2026-09-20",
+      "end": "2027-01-03",
+      "location": "MOCA Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "moca-vicuna",
+      "title": "Cecilia Vicuña: The Dream of Water",
+      "start": "2026-11-15",
+      "end": "2027-06-06",
+      "location": "MOCA Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/exhibitions/the-dream-of-water",
+      "description": ""
+    },
+    {
+      "id": "moca-charriere",
+      "title": "Julian Charrière: Deep End",
+      "start": "2026-11-15",
+      "end": "2027-06-06",
+      "location": "MOCA Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "hammer-baeza",
+      "title": "Felipe Baeza: Anima",
+      "start": "2026-11-21",
+      "end": "2027-04-04",
+      "location": "Hammer Museum, Los Angeles",
+      "url": "https://hammer.ucla.edu/exhibitions/2026/felipe-baeza-anima",
+      "description": ""
+    },
+    {
+      "id": "hammer-mascini",
+      "title": "Hammer Projects: Vibeke Mascini",
+      "start": "2026-09-12",
+      "end": "2027-01-17",
+      "location": "Hammer Museum, Los Angeles",
+      "url": "https://hammer.ucla.edu/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "hammer-caland",
+      "title": "Huguette Caland: A Life in a Few Lines",
+      "start": "2026-09-27",
+      "end": "2027-02-28",
+      "location": "Hammer Museum, Los Angeles",
+      "url": "https://hammer.ucla.edu/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "hammer-viana",
+      "title": "Hammer Projects: Gê Viana",
+      "start": "2026-09-19",
+      "end": "2027-02-07",
+      "location": "Hammer Museum, Los Angeles",
+      "url": "https://hammer.ucla.edu/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "hammer-pusey",
+      "title": "Mavis Pusey: Mobile Images",
+      "start": "2026-10-11",
+      "end": "2027-02-28",
+      "location": "Hammer Museum, Los Angeles",
+      "url": "https://hammer.ucla.edu/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "hammer-cloud",
+      "title": "Hammer Projects: Mike Cloud",
+      "start": "2026-03-28",
+      "end": "2027-01-10",
+      "location": "Hammer Museum, Los Angeles",
+      "url": "https://hammer.ucla.edu/exhibitions",
+      "description": ""
+    },
+    {
+      "id": "ctg-musicman",
+      "title": "The Music Man — theatrical run",
+      "start": "2026-10-27",
+      "end": "2026-11-08",
+      "location": "Ahmanson Theatre, Los Angeles",
+      "url": "https://lb2.centertheatregroup.org/",
+      "description": ""
+    },
+    {
+      "id": "ctg-ohmary",
+      "title": "Oh, Mary! — theatrical run",
+      "start": "2026-11-10",
+      "end": "2026-12-06",
+      "location": "Ahmanson Theatre, Los Angeles",
+      "url": "https://lb2.centertheatregroup.org/shows-tickets/subscriptions/ahmanson-theatre/",
+      "description": ""
+    },
+    {
+      "id": "ctg-destiny",
+      "title": "Destiny of Desire — theatrical run",
+      "start": "2026-11-11",
+      "end": "2026-12-20",
+      "location": "Mark Taper Forum, Los Angeles",
+      "url": "https://lb2.centertheatregroup.org/",
+      "description": ""
+    },
+    {
+      "id": "ctg-carol",
+      "title": "Christmas Carol Goes Wrong — theatrical run",
+      "start": "2026-12-12",
+      "end": "2027-01-10",
+      "location": "Ahmanson Theatre, Los Angeles",
+      "url": "https://lb2.centertheatregroup.org/shows-tickets/subscriptions/ahmanson-theatre/",
+      "description": ""
+    },
+    {
+      "id": "moca-play",
+      "title": "Emily Mast, PLAY: A Play — world premiere",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "location": "MOCA Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/",
+      "description": ""
+    },
+    {
+      "id": "moca-grandave",
+      "title": "Grand Ave Arts: All Access",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "location": "Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/",
+      "description": ""
+    },
+    {
+      "id": "moca-talk",
+      "title": "Cecilia Vicuña in Conversation with Elizabeth DeLoughrey",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "location": "MOCA Grand Avenue, Los Angeles",
+      "url": "https://www.moca.org/events/cecilia-vicua-in-conversation-with-elizabeth-deloughrey",
+      "description": ""
+    },
+    {
+      "id": "moca-figuring",
+      "title": "Figuring Space — performance",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "location": "The Geffen Contemporary at MOCA, Los Angeles",
+      "url": "https://www.moca.org/events",
+      "description": ""
+    }
+  ],
+  "national": [
+    {
+      "id": "miami-week",
+      "title": "Miami Art Week 2026",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "location": "Miami, Florida",
+      "url": "https://www.miamiartweek.org/",
+      "description": ""
+    },
+    {
+      "id": "miami-nada",
+      "title": "NADA Miami",
+      "start": "2026-12-01",
+      "end": "2026-12-05",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-artmiami",
+      "title": "Art Miami",
+      "start": "2026-12-01",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-context",
+      "title": "CONTEXT Art Miami",
+      "start": "2026-12-01",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-designmiami",
+      "title": "Design Miami",
+      "start": "2026-12-01",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-scope",
+      "title": "SCOPE Miami Beach",
+      "start": "2026-12-01",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-untitled",
+      "title": "Untitled Art Miami Beach",
+      "start": "2026-12-02",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-afrik",
+      "title": "AfriKin Art Fair",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-prizm",
+      "title": "Prizm Art Fair",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "miami-ink",
+      "title": "INK Miami Art Fair",
+      "start": "2026-12-02",
+      "end": "2026-12-06",
+      "location": "Miami / Miami Beach, Florida",
+      "url": "https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs",
+      "description": ""
+    },
+    {
+      "id": "basel-miami",
+      "title": "Art Basel Miami Beach",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "location": "Miami Beach Convention Center, Florida",
+      "url": "https://www.artbasel.com/miami-beach/",
+      "description": ""
+    }
+  ],
+  "international": [
+    {
+      "id": "basel-paris",
+      "title": "Art Basel Paris",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "location": "Grand Palais, Paris, France",
+      "url": "https://www.artbasel.com/",
+      "description": ""
+    },
+    {
+      "id": "artissima",
+      "title": "Artissima",
+      "start": "2026-10-29",
+      "end": "2026-11-01",
+      "location": "Turin, Italy",
+      "url": "https://my.biennale.com/art-fairs/calendar",
+      "description": ""
+    },
+    {
+      "id": "art-taipei",
+      "title": "ART TAIPEI",
+      "start": "2026-10-29",
+      "end": "2026-11-02",
+      "location": "Taipei, Taiwan",
+      "url": "https://my.biennale.com/art-fairs/calendar",
+      "description": ""
+    },
+    {
+      "id": "art-toronto",
+      "title": "Art Toronto",
+      "start": "2026-10-29",
+      "end": "2026-11-01",
+      "location": "Toronto, Canada",
+      "url": "https://my.biennale.com/art-fairs/calendar",
+      "description": ""
+    },
+    {
+      "id": "basel-qatar",
+      "title": "Art Basel Qatar",
+      "start": "2027-01-28",
+      "end": "2027-01-30",
+      "location": "Doha, Qatar",
+      "url": "https://www.artbasel.com/about/application",
+      "description": ""
+    }
+  ]
 }
