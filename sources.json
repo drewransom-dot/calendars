@@ -1,0 +1,63 @@
+{
+  "socal": [
+    {
+      "name": "MOCA",
+      "url": "https://www.moca.org/events",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Hammer Museum",
+      "url": "https://hammer.ucla.edu/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "LACMA",
+      "url": "https://www.lacma.org/art/exhibitions/upcoming",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "The Broad",
+      "url": "https://www.thebroad.org/events",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Center Theatre Group",
+      "url": "https://www.centertheatregroup.org/tickets/",
+      "location": "Los Angeles, CA"
+    }
+  ],
+  "national": [
+    {
+      "name": "Walker Art Center",
+      "url": "https://walkerart.org/calendar/",
+      "location": "Minneapolis, MN"
+    },
+    {
+      "name": "The Met",
+      "url": "https://www.metmuseum.org/exhibitions",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Art Basel Miami Beach",
+      "url": "https://www.artbasel.com/miami-beach",
+      "location": "Miami Beach, FL"
+    }
+  ],
+  "international": [
+    {
+      "name": "Art Basel",
+      "url": "https://www.artbasel.com/",
+      "location": "International"
+    },
+    {
+      "name": "Paris Photo",
+      "url": "https://www.parisphoto.com/",
+      "location": "Paris, France"
+    },
+    {
+      "name": "Venice Biennale",
+      "url": "https://www.labiennale.org/en/art/2026",
+      "location": "Venice, Italy"
+    }
+  ]
+}
