@@ -47,7 +47,7 @@ class StructuredData(HTMLParser):
 
 def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=12, context=ssl.create_default_context()) as response:
+    with urllib.request.urlopen(req, timeout=3, context=ssl.create_default_context()) as response:
         if response.status != 200 or "html" not in response.headers.get("Content-Type", "").lower():
             raise ValueError("not an HTML response")
         return response.read(MAX_BYTES + 1)[:MAX_BYTES].decode("utf-8", errors="replace")
@@ -115,7 +115,7 @@ def scan(source, slug):
     seen = set()
     found = []
     errors = []
-    while queue and len(seen) < 12:
+    while queue and len(seen) < 1:
         page = queue.pop(0)
         if page in seen:
             continue
