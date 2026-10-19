@@ -24,6 +24,281 @@
       "name": "Center Theatre Group",
       "url": "https://www.centertheatregroup.org/tickets/",
       "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Getty",
+      "url": "https://www.getty.edu/visit/exhibitions/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "The Huntington",
+      "url": "https://huntington.org/exhibitions",
+      "location": "San Marino, CA"
+    },
+    {
+      "name": "ICA LA",
+      "url": "https://www.theicala.org/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "CAAM",
+      "url": "https://caamuseum.org/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Japanese American National Museum",
+      "url": "https://www.janm.org/exhibits",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Academy Museum",
+      "url": "https://www.academymuseum.org/en/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "MOLAA",
+      "url": "https://molaa.org/exhibitions",
+      "location": "Long Beach, CA"
+    },
+    {
+      "name": "Craft Contemporary",
+      "url": "https://www.craftcontemporary.org/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Wende Museum",
+      "url": "https://wendemuseum.org/exhibitions/",
+      "location": "Culver City, CA"
+    },
+    {
+      "name": "Skirball Cultural Center",
+      "url": "https://www.skirball.org/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Autry Museum",
+      "url": "https://theautry.org/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "OCMA",
+      "url": "https://ocma.art/exhibitions/",
+      "location": "Costa Mesa, CA"
+    },
+    {
+      "name": "Laguna Art Museum",
+      "url": "https://lagunaartmuseum.org/exhibitions/",
+      "location": "Laguna Beach, CA"
+    },
+    {
+      "name": "MCASD",
+      "url": "https://mcasd.org/exhibitions",
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "San Diego Museum of Art",
+      "url": "https://www.sdmart.org/exhibitions/",
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Palm Springs Art Museum",
+      "url": "https://www.psmuseum.org/art/exhibitions",
+      "location": "Palm Springs, CA"
+    },
+    {
+      "name": "Riverside Art Museum",
+      "url": "https://riversideartmuseum.org/exhibits/",
+      "location": "Riverside, CA"
+    },
+    {
+      "name": "UCR ARTS",
+      "url": "https://ucrarts.ucr.edu/exhibitions/",
+      "location": "Riverside, CA"
+    },
+    {
+      "name": "Hauser & Wirth LA",
+      "url": "https://www.hauserwirth.com/locations/10069-hauser-wirth-los-angeles/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "David Zwirner LA",
+      "url": "https://www.davidzwirner.com/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Gagosian",
+      "url": "https://gagosian.com/exhibitions/",
+      "location": "Beverly Hills, CA"
+    },
+    {
+      "name": "Jeffrey Deitch",
+      "url": "https://deitch.com/los-angeles",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Regen Projects",
+      "url": "https://www.regenprojects.com/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Various Small Fires",
+      "url": "https://www.vsf.la/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Night Gallery",
+      "url": "https://www.nightgallery.ca/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Commonwealth and Council",
+      "url": "https://commonwealthandcouncil.com/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "The Pit",
+      "url": "https://www.the-pit.la/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Vielmetter",
+      "url": "https://vielmetter.com/exhibitions/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "François Ghebaly",
+      "url": "https://ghebaly.com/exhibitions/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Château Shatto",
+      "url": "https://chateaushatto.com/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Anat Ebgi",
+      "url": "https://anatebgi.com/exhibitions/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Roberts Projects",
+      "url": "https://www.robertsprojectsla.com/exhibitions",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "LACE",
+      "url": "https://welcometolace.org/events/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Art + Practice",
+      "url": "https://www.artandpractice.org/exhibitions/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "SCI-Arc",
+      "url": "https://www.sciarc.edu/events",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "AIA Los Angeles",
+      "url": "https://www.aialosangeles.org/events/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "LA Conservancy",
+      "url": "https://www.laconservancy.org/events/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "MAK Center",
+      "url": "https://www.makcenter.org/programming",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Palm Springs Modernism Week",
+      "url": "https://modernismweek.com/",
+      "location": "Palm Springs, CA"
+    },
+    {
+      "name": "Frieze LA",
+      "url": "https://www.frieze.com/fairs/frieze-los-angeles",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "LA Art Show",
+      "url": "https://www.laartshow.com/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Geffen Playhouse",
+      "url": "https://www.geffenplayhouse.org/shows/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Pasadena Playhouse",
+      "url": "https://www.pasadenaplayhouse.org/",
+      "location": "Pasadena, CA"
+    },
+    {
+      "name": "Pantages",
+      "url": "https://www.broadwayinhollywood.com/",
+      "location": "Hollywood, CA"
+    },
+    {
+      "name": "The Wallis",
+      "url": "https://thewallis.org/",
+      "location": "Beverly Hills, CA"
+    },
+    {
+      "name": "South Coast Repertory",
+      "url": "https://www.scr.org/",
+      "location": "Costa Mesa, CA"
+    },
+    {
+      "name": "La Jolla Playhouse",
+      "url": "https://lajollaplayhouse.org/",
+      "location": "La Jolla, CA"
+    },
+    {
+      "name": "The Old Globe",
+      "url": "https://www.theoldglobe.org/",
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "REDCAT",
+      "url": "https://www.redcat.org/events",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "LA Opera",
+      "url": "https://www.laopera.org/performances",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Renegade Craft LA",
+      "url": "https://www.renegadecraft.com/fairs/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Unique Markets",
+      "url": "https://uniquemarkets.com/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Jackalope Arts",
+      "url": "https://www.jackalopeartfair.com/",
+      "location": "Pasadena, CA"
+    },
+    {
+      "name": "Brewery Artwalk",
+      "url": "https://breweryartwalk.com/",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Frogtown Artwalk",
+      "url": "https://www.frogtownarts.com/",
+      "location": "Los Angeles, CA"
     }
   ],
   "national": [
@@ -41,6 +316,161 @@
       "name": "Art Basel Miami Beach",
       "url": "https://www.artbasel.com/miami-beach",
       "location": "Miami Beach, FL"
+    },
+    {
+      "name": "MoMA",
+      "url": "https://www.moma.org/calendar/exhibitions",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Whitney",
+      "url": "https://whitney.org/exhibitions",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Guggenheim New York",
+      "url": "https://www.guggenheim.org/exhibitions",
+      "location": "New York, NY"
+    },
+    {
+      "name": "New Museum",
+      "url": "https://www.newmuseum.org/exhibitions",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Brooklyn Museum",
+      "url": "https://www.brooklynmuseum.org/exhibitions",
+      "location": "Brooklyn, NY"
+    },
+    {
+      "name": "Cooper Hewitt",
+      "url": "https://www.cooperhewitt.org/exhibitions/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "The Shed",
+      "url": "https://www.theshed.org/program",
+      "location": "New York, NY"
+    },
+    {
+      "name": "MASS MoCA",
+      "url": "https://massmoca.org/event/",
+      "location": "North Adams, MA"
+    },
+    {
+      "name": "ICA Boston",
+      "url": "https://www.icaboston.org/exhibitions/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "Art Institute Chicago",
+      "url": "https://www.artic.edu/exhibitions",
+      "location": "Chicago, IL"
+    },
+    {
+      "name": "MCA Chicago",
+      "url": "https://mcachicago.org/exhibitions",
+      "location": "Chicago, IL"
+    },
+    {
+      "name": "Carnegie Museum of Art",
+      "url": "https://carnegieart.org/exhibitions/",
+      "location": "Pittsburgh, PA"
+    },
+    {
+      "name": "Crystal Bridges",
+      "url": "https://crystalbridges.org/exhibitions/",
+      "location": "Bentonville, AR"
+    },
+    {
+      "name": "PAMM",
+      "url": "https://www.pamm.org/en/exhibition/",
+      "location": "Miami, FL"
+    },
+    {
+      "name": "ICA Miami",
+      "url": "https://icamiami.org/exhibition/",
+      "location": "Miami, FL"
+    },
+    {
+      "name": "SFMOMA",
+      "url": "https://www.sfmoma.org/exhibitions/",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Seattle Art Museum",
+      "url": "https://www.seattleartmuseum.org/exhibitions",
+      "location": "Seattle, WA"
+    },
+    {
+      "name": "Denver Art Museum",
+      "url": "https://www.denverartmuseum.org/en/exhibitions",
+      "location": "Denver, CO"
+    },
+    {
+      "name": "Armory Show",
+      "url": "https://www.thearmoryshow.com/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "NADA",
+      "url": "https://www.newartdealers.org/fairs",
+      "location": "New York / Miami"
+    },
+    {
+      "name": "EXPO CHICAGO",
+      "url": "https://www.expochicago.com/",
+      "location": "Chicago, IL"
+    },
+    {
+      "name": "FOG Design+Art",
+      "url": "https://fogfair.com/",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Design Miami",
+      "url": "https://designmiami.com/",
+      "location": "Miami, FL"
+    },
+    {
+      "name": "NYCxDESIGN",
+      "url": "https://nycxdesign.org/events/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "ICFF",
+      "url": "https://icff.com/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Open House New York",
+      "url": "https://ohny.org/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Broadway",
+      "url": "https://www.broadway.com/shows/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "BAM",
+      "url": "https://www.bam.org/",
+      "location": "Brooklyn, NY"
+    },
+    {
+      "name": "The Public Theater",
+      "url": "https://publictheater.org/",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Kennedy Center",
+      "url": "https://www.kennedy-center.org/whats-on/",
+      "location": "Washington, DC"
+    },
+    {
+      "name": "Renegade Craft National",
+      "url": "https://www.renegadecraft.com/fairs/",
+      "location": "United States"
     }
   ],
   "international": [
@@ -58,6 +488,176 @@
       "name": "Venice Biennale",
       "url": "https://www.labiennale.org/en/art/2026",
       "location": "Venice, Italy"
+    },
+    {
+      "name": "Tate",
+      "url": "https://www.tate.org.uk/whats-on",
+      "location": "London, UK"
+    },
+    {
+      "name": "V&A",
+      "url": "https://www.vam.ac.uk/exhibitions",
+      "location": "London, UK"
+    },
+    {
+      "name": "Design Museum London",
+      "url": "https://designmuseum.org/exhibitions",
+      "location": "London, UK"
+    },
+    {
+      "name": "Barbican",
+      "url": "https://www.barbican.org.uk/whats-on",
+      "location": "London, UK"
+    },
+    {
+      "name": "Serpentine",
+      "url": "https://www.serpentinegalleries.org/whats-on/",
+      "location": "London, UK"
+    },
+    {
+      "name": "Royal Academy",
+      "url": "https://www.royalacademy.org.uk/exhibitions",
+      "location": "London, UK"
+    },
+    {
+      "name": "Fondation Louis Vuitton",
+      "url": "https://www.fondationlouisvuitton.fr/en/events",
+      "location": "Paris, France"
+    },
+    {
+      "name": "Palais de Tokyo",
+      "url": "https://palaisdetokyo.com/en/programmation/",
+      "location": "Paris, France"
+    },
+    {
+      "name": "Bourse de Commerce",
+      "url": "https://www.pinaultcollection.com/en/boursedecommerce",
+      "location": "Paris, France"
+    },
+    {
+      "name": "Grand Palais",
+      "url": "https://www.grandpalais.fr/en/program",
+      "location": "Paris, France"
+    },
+    {
+      "name": "Guggenheim Bilbao",
+      "url": "https://www.guggenheim-bilbao.eus/en/exhibitions",
+      "location": "Bilbao, Spain"
+    },
+    {
+      "name": "Stedelijk",
+      "url": "https://www.stedelijk.nl/en/exhibitions",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "name": "Vitra Design Museum",
+      "url": "https://www.design-museum.de/en/exhibitions.html",
+      "location": "Weil am Rhein, Germany"
+    },
+    {
+      "name": "M+ Hong Kong",
+      "url": "https://www.mplus.org.hk/en/exhibitions/",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "Mori Art Museum",
+      "url": "https://www.mori.art.museum/en/exhibitions/",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "name": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions.html",
+      "location": "Singapore"
+    },
+    {
+      "name": "Louvre Abu Dhabi",
+      "url": "https://www.louvreabudhabi.ae/en/Explore/exhibitions",
+      "location": "Abu Dhabi, UAE"
+    },
+    {
+      "name": "Sharjah Art Foundation",
+      "url": "https://www.sharjahart.org/sharjah-art-foundation/exhibitions",
+      "location": "Sharjah, UAE"
+    },
+    {
+      "name": "Museo Jumex",
+      "url": "https://www.fundacionjumex.org/en/exhibitions",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "name": "NGV Melbourne",
+      "url": "https://www.ngv.vic.gov.au/exhibition/",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "name": "Frieze",
+      "url": "https://www.frieze.com/fairs",
+      "location": "International"
+    },
+    {
+      "name": "ARCOmadrid",
+      "url": "https://www.ifema.es/en/arco",
+      "location": "Madrid, Spain"
+    },
+    {
+      "name": "TEFAF",
+      "url": "https://www.tefaf.com/fairs",
+      "location": "Maastricht, Netherlands"
+    },
+    {
+      "name": "Art Dubai",
+      "url": "https://www.artdubai.ae/",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Gwangju Biennale",
+      "url": "https://www.gwangjubiennale.org/en/",
+      "location": "Gwangju, South Korea"
+    },
+    {
+      "name": "Istanbul Biennial",
+      "url": "https://bienal.iksv.org/en",
+      "location": "Istanbul, Türkiye"
+    },
+    {
+      "name": "Milan Design Week",
+      "url": "https://www.salonemilano.it/en",
+      "location": "Milan, Italy"
+    },
+    {
+      "name": "Dutch Design Week",
+      "url": "https://ddw.nl/en",
+      "location": "Eindhoven, Netherlands"
+    },
+    {
+      "name": "London Design Festival",
+      "url": "https://www.londondesignfestival.com/",
+      "location": "London, UK"
+    },
+    {
+      "name": "3daysofdesign",
+      "url": "https://www.3daysofdesign.dk/",
+      "location": "Copenhagen, Denmark"
+    },
+    {
+      "name": "Maison&Objet",
+      "url": "https://www.maison-objet.com/en/paris",
+      "location": "Paris, France"
+    },
+    {
+      "name": "Ars Electronica",
+      "url": "https://ars.electronica.art/",
+      "location": "Linz, Austria"
+    },
+    {
+      "name": "Edinburgh Fringe",
+      "url": "https://www.edfringe.com/",
+      "location": "Edinburgh, UK"
+    },
+    {
+      "name": "Vivid Sydney",
+      "url": "https://www.vividsydney.com/",
+      "location": "Sydney, Australia"
     }
   ]
 }
