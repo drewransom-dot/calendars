@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:SoCal Arts & Culture
 BEGIN:VEVENT
 UID:lacma-brockman-2026-10-18@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Opens: The Brockman Gallery: Los Angeles\, 1967–1990
@@ -17,7 +17,7 @@ LOCATION:LACMA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:lacma-textile-2026-09-20@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Opens: Textile Alchemy: The Art of Reiko Sudo & NUNO
@@ -28,7 +28,7 @@ LOCATION:LACMA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:lacma-cowin-2026-08-23@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Opens: Eileen Cowin: Between Panic and Paradise
@@ -39,7 +39,7 @@ LOCATION:LACMA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:lacma-cowin-2027-01-03@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Last day: Eileen Cowin: Between Panic and Paradise
@@ -50,7 +50,7 @@ LOCATION:LACMA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:lacma-williams-2026-11-15@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Opens: Paul R. Williams: Architect for Living
@@ -61,7 +61,7 @@ LOCATION:LACMA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:lacma-roberto-2026-12-20@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Opens: Roberto Gil de Montes: Water Drops on Burning Rocks
@@ -72,7 +72,7 @@ LOCATION:LACMA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-times-2026-09-20@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Opens: In These Times: Recent Acquisitions at MOCA
@@ -83,7 +83,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-times-2027-01-03@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Last day: In These Times: Recent Acquisitions at MOCA
@@ -94,7 +94,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-apostol-2026-09-20@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Opens: Alexander Apóstol: Regime\, Dramatis Personae
@@ -105,7 +105,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-apostol-2027-01-03@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Last day: Alexander Apóstol: Regime\, Dramatis Personae
@@ -116,7 +116,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-vicuna-2026-11-15@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Opens: Cecilia Vicuña: The Dream of Water
@@ -127,7 +127,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-charriere-2026-11-15@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Opens: Julian Charrière: Deep End
@@ -138,7 +138,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-baeza-2026-11-21@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Opens: Felipe Baeza: Anima
@@ -149,7 +149,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-mascini-2026-09-12@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Opens: Hammer Projects: Vibeke Mascini
@@ -160,7 +160,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-mascini-2027-01-17@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Last day: Hammer Projects: Vibeke Mascini
@@ -171,7 +171,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-caland-2026-09-27@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Opens: Huguette Caland: A Life in a Few Lines
@@ -182,7 +182,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-viana-2026-09-19@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Opens: Hammer Projects: Gê Viana
@@ -193,7 +193,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-pusey-2026-10-11@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Opens: Mavis Pusey: Mobile Images
@@ -204,7 +204,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:hammer-cloud-2027-01-10@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Last day: Hammer Projects: Mike Cloud
@@ -215,7 +215,7 @@ LOCATION:Hammer Museum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-musicman-2026-10-27@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Opens: The Music Man — theatrical run
@@ -226,7 +226,7 @@ LOCATION:Ahmanson Theatre\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-musicman-2026-11-08@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Last day: The Music Man — theatrical run
@@ -237,7 +237,7 @@ LOCATION:Ahmanson Theatre\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-ohmary-2026-11-10@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Opens: Oh\, Mary! — theatrical run
@@ -248,7 +248,7 @@ LOCATION:Ahmanson Theatre\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-ohmary-2026-12-06@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Last day: Oh\, Mary! — theatrical run
@@ -259,7 +259,7 @@ LOCATION:Ahmanson Theatre\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-destiny-2026-11-11@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Opens: Destiny of Desire — theatrical run
@@ -270,7 +270,7 @@ LOCATION:Mark Taper Forum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-destiny-2026-12-20@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Last day: Destiny of Desire — theatrical run
@@ -281,7 +281,7 @@ LOCATION:Mark Taper Forum\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-carol-2026-12-12@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Opens: Christmas Carol Goes Wrong — theatrical run
@@ -292,7 +292,7 @@ LOCATION:Ahmanson Theatre\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:ctg-carol-2027-01-10@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Last day: Christmas Carol Goes Wrong — theatrical run
@@ -303,7 +303,7 @@ LOCATION:Ahmanson Theatre\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-play-2026-10-23@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Opens: Emily Mast\, PLAY: A Play — world premiere
@@ -314,7 +314,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-play-2026-10-25@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Last day: Emily Mast\, PLAY: A Play — world premiere
@@ -325,7 +325,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-grandave-2026-10-24@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Grand Ave Arts: All Access
@@ -336,7 +336,7 @@ LOCATION:Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-talk-2026-11-15@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Cecilia Vicuña in Conversation with Elizabeth DeLoughrey
@@ -347,7 +347,7 @@ LOCATION:MOCA Grand Avenue\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-figuring-2026-12-11@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Opens: Figuring Space — performance
@@ -358,7 +358,7 @@ LOCATION:The Geffen Contemporary at MOCA\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:moca-figuring-2026-12-12@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Last day: Figuring Space — performance
@@ -366,5 +366,874 @@ DESCRIPTION:Closing day. Full run: 2026-12-11 through 2026-12-12.
 TRANSP:TRANSPARENT
 URL:https://www.moca.org/events
 LOCATION:The Geffen Contemporary at MOCA\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1978f9bc820b7220-2026-09-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Opens: The Holy Family at Home
+DESCRIPTION:Opening day. Full run: 2026-09-22 through 2027-01-10.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/holy-family-at-home
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1978f9bc820b7220-2027-01-10@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Last day: The Holy Family at Home
+DESCRIPTION:Closing day. Full run: 2026-09-22 through 2027-01-10.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/holy-family-at-home
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-061ef29f48927b33-2026-09-15@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Opens: Joshua Reynolds's *Portrait of Mai* and 18th-Century Portraiture
+DESCRIPTION:Opening day. Full run: 2026-09-15 through 2027-03-14.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/highlights-portrait-of-mai
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b7c116daea9790d4-2026-09-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Opens: Every Minute Is History
+DESCRIPTION:Opening day. Full run: 2026-09-01 through 2027-01-03.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/five-views
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b7c116daea9790d4-2027-01-03@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Last day: Every Minute Is History
+DESCRIPTION:Closing day. Full run: 2026-09-01 through 2027-01-03.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/five-views
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-67ecfc4c2866e84a-2026-09-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Opens: Instante/revelación
+DESCRIPTION:Opening day. Full run: 2026-09-01 through 2027-01-03.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/mexican-photography
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-67ecfc4c2866e84a-2027-01-03@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Last day: Instante/revelación
+DESCRIPTION:Closing day. Full run: 2026-09-01 through 2027-01-03.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/mexican-photography
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d3e342f8f17c7425-2026-08-04@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Opens: The Making of a Medieval Manuscript
+DESCRIPTION:Opening day. Full run: 2026-08-04 through 2027-03-14.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/making-medieval-manuscript
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9d6004b758d9dbc0-2026-11-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Last day: The Egyptian Book of the Dead
+DESCRIPTION:Closing day. Full run: 2026-03-04 through 2026-11-30.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/book-of-the-dead
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1a67ebb53b31333f-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Opens: Reggie Burrows Hodges
+DESCRIPTION:Opening day. Full run: 2026-10-20 through 2027-02-28.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/reggie-burrows-hodges
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5963115043495c70-2026-11-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Opens: A Light in the Dark
+DESCRIPTION:Opening day. Full run: 2026-11-24 through 2027-03-14.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/wright-of-derby
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9af318dd324768c6-2026-12-15@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Opens: Paul R. Williams
+DESCRIPTION:Opening day. Full run: 2026-12-15 through 2027-03-14.\nDiscovered from Getty (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.getty.edu/exhibitions/paul-r-williams
+LOCATION:Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5e61a56514620ce3-2026-09-10@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Opens: Nate Lowman
+DESCRIPTION:Opening day. Full run: 2026-09-10 through 2026-10-24.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/nate-lowman
+LOCATION:New York: 19th Street
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5e61a56514620ce3-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Last day: Nate Lowman
+DESCRIPTION:Closing day. Full run: 2026-09-10 through 2026-10-24.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/nate-lowman
+LOCATION:New York: 19th Street
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6b9e9a0967455c18-2026-09-18@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Opens: Louis Fratino
+DESCRIPTION:Opening day. Full run: 2026-09-18 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/louis-fratino
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6b9e9a0967455c18-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Last day: Louis Fratino
+DESCRIPTION:Closing day. Full run: 2026-09-18 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/louis-fratino
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9efeb6afe6024856-2026-09-18@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Opens: Emma McIntyre
+DESCRIPTION:Opening day. Full run: 2026-09-18 through 2026-10-24.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre
+LOCATION:New York: Tribeca
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9efeb6afe6024856-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Last day: Emma McIntyre
+DESCRIPTION:Closing day. Full run: 2026-09-18 through 2026-10-24.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre
+LOCATION:New York: Tribeca
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-862c678ad39be09f-2026-09-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Opens: Roy DeCarava
+DESCRIPTION:Opening day. Full run: 2026-09-19 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw
+LOCATION:Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-862c678ad39be09f-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Last day: Roy DeCarava
+DESCRIPTION:Closing day. Full run: 2026-09-19 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw
+LOCATION:Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-dae0e28baa7546db-2026-09-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Opens: Nocturnal
+DESCRIPTION:Opening day. Full run: 2026-09-23 through 2026-11-14.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/nocturnal
+LOCATION:Hong Kong
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-dae0e28baa7546db-2026-11-14@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Last day: Nocturnal
+DESCRIPTION:Closing day. Full run: 2026-09-23 through 2026-11-14.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/nocturnal
+LOCATION:Hong Kong
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-25a8e0e93361aaf1-2026-09-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Opens: Amadeo Luciano Lorenzato
+DESCRIPTION:Opening day. Full run: 2026-09-23 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato
+LOCATION:Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-25a8e0e93361aaf1-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Last day: Amadeo Luciano Lorenzato
+DESCRIPTION:Closing day. Full run: 2026-09-23 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato
+LOCATION:Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c46fbb5fbc6c73ab-2026-09-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Opens: Daichi Takagi
+DESCRIPTION:Opening day. Full run: 2026-09-24 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c46fbb5fbc6c73ab-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Last day: Daichi Takagi
+DESCRIPTION:Closing day. Full run: 2026-09-24 through 2026-10-31.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-01c51e7a61027470-2026-10-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Opens: Oscar Murillo
+DESCRIPTION:Opening day. Full run: 2026-10-19 through 2026-12-19.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-01c51e7a61027470-2026-12-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Last day: Oscar Murillo
+DESCRIPTION:Closing day. Full run: 2026-10-19 through 2026-12-19.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-21f89801e894c1d5-2026-11-05@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Opens: Yoshitomo Nara
+DESCRIPTION:Opening day. Full run: 2026-11-05 through 2026-12-12.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara
+LOCATION:New York: 19th Street
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-21f89801e894c1d5-2026-12-12@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Last day: Yoshitomo Nara
+DESCRIPTION:Closing day. Full run: 2026-11-05 through 2026-12-12.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara
+LOCATION:New York: 19th Street
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-306b92865ed224f8-2026-11-05@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Opens: No Plan at All: Prints from BORCH Editions
+DESCRIPTION:Opening day. Full run: 2026-11-05 through 2026-12-19.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/no-plan-at-all-prints-from-borch-editions
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-306b92865ed224f8-2026-12-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Last day: No Plan at All: Prints from BORCH Editions
+DESCRIPTION:Closing day. Full run: 2026-11-05 through 2026-12-19.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/no-plan-at-all-prints-from-borch-editions
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ff97dbb60f386397-2026-11-06@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Opens: Jem Perucchini
+DESCRIPTION:Opening day. Full run: 2026-11-06 through 2026-12-19.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/jem-perucchini
+LOCATION:New York: Tribeca
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ff97dbb60f386397-2026-12-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Last day: Jem Perucchini
+DESCRIPTION:Closing day. Full run: 2026-11-06 through 2026-12-19.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/jem-perucchini
+LOCATION:New York: Tribeca
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-808e94a563731940-2026-11-13@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Opens: Thomas Ruff
+DESCRIPTION:Opening day. Full run: 2026-11-13 through 2027-02-06.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/thomas-ruff
+LOCATION:Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1ef6f343ee678322-2026-11-13@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Opens: Frank Walter
+DESCRIPTION:Opening day. Full run: 2026-11-13 through 2027-02-06.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/frank-walter
+LOCATION:Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-80946391a9336584-2026-11-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Opens: Rose Wylie
+DESCRIPTION:Opening day. Full run: 2026-11-24 through 2027-03-06.\nDiscovered from David Zwirner LA (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.davidzwirner.com/exhibitions/2026/rose-wylie-napoleon-and-wild-flowers
+LOCATION:Hong Kong
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-65c609f783b6acbe-2026-09-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Opens: Shanna Waddell: Chapter 3: Interiors and Exteriors
+DESCRIPTION:Opening day. Full run: 2026-09-19 through 2026-10-31.\nDiscovered from Vielmetter (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://vielmetter.com/exhibitions/shanna-waddell-2026/
+LOCATION:VIELMETTER LOS ANGELES\, Culver City
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-65c609f783b6acbe-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Last day: Shanna Waddell: Chapter 3: Interiors and Exteriors
+DESCRIPTION:Closing day. Full run: 2026-09-19 through 2026-10-31.\nDiscovered from Vielmetter (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://vielmetter.com/exhibitions/shanna-waddell-2026/
+LOCATION:VIELMETTER LOS ANGELES\, Culver City
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bb4e2850aa766853-2026-09-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Opens: Spotlight: Brittney Leeanne Williams
+DESCRIPTION:Opening day. Full run: 2026-09-19 through 2026-11-07.\nDiscovered from Vielmetter (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://vielmetter.com/exhibitions/brittney-leeanne-williams-2026/
+LOCATION:VIELMETTER LOS ANGELES\, Culver City
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bb4e2850aa766853-2026-11-07@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Last day: Spotlight: Brittney Leeanne Williams
+DESCRIPTION:Closing day. Full run: 2026-09-19 through 2026-11-07.\nDiscovered from Vielmetter (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://vielmetter.com/exhibitions/brittney-leeanne-williams-2026/
+LOCATION:VIELMETTER LOS ANGELES\, Culver City
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-71699f70232cdba5-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Opens: April Bey: All the Reasons We Never Tell Someone We Love Them&#8230\;They’re Worthless
+DESCRIPTION:Opening day. Full run: 2026-10-31 through 2026-12-19.\nDiscovered from Vielmetter (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://vielmetter.com/exhibitions/april-bey-2026/
+LOCATION:VIELMETTER LOS ANGELES\, Culver City
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-71699f70232cdba5-2026-12-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Last day: April Bey: All the Reasons We Never Tell Someone We Love Them&#8230\;They’re Worthless
+DESCRIPTION:Closing day. Full run: 2026-10-31 through 2026-12-19.\nDiscovered from Vielmetter (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://vielmetter.com/exhibitions/april-bey-2026/
+LOCATION:VIELMETTER LOS ANGELES\, Culver City
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-596ed2f2672c1644-2026-11-04@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Opens: Passing Strange
+DESCRIPTION:Opening day. Full run: 2026-11-04 through 2026-11-29.\nDiscovered from Pasadena Playhouse (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.pasadenaplayhouse.org/event/passing-strange/
+LOCATION:Pasadena Playhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-596ed2f2672c1644-2026-11-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Last day: Passing Strange
+DESCRIPTION:Closing day. Full run: 2026-11-04 through 2026-11-29.\nDiscovered from Pasadena Playhouse (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.pasadenaplayhouse.org/event/passing-strange/
+LOCATION:Pasadena Playhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0772cb864eda8626-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Opens: MUSE/IQUE: AMERICAN SOUND TAKES FLIGHT
+DESCRIPTION:Opening day. Full run: 2026-10-23 through 2026-10-24.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0772cb864eda8626-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Last day: MUSE/IQUE: AMERICAN SOUND TAKES FLIGHT
+DESCRIPTION:Closing day. Full run: 2026-10-23 through 2026-10-24.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-639ef29ed8a83ded-2026-10-26@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:COSMIC SYMPHONY LA PREMIERE & CONCERT
+DESCRIPTION:One-day event. Full run: 2026-10-26 through 2026-10-26.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a75a7f019d11c896-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Opens: SASHA VELOUR: TRAVESTY
+DESCRIPTION:Opening day. Full run: 2026-10-29 through 2026-10-30.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a75a7f019d11c896-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Last day: SASHA VELOUR: TRAVESTY
+DESCRIPTION:Closing day. Full run: 2026-10-29 through 2026-10-30.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-992a06ef4ed57b21-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:FAMILY FEST | DÍA DE LOS MUERTOS
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9c62d43923e051d5-2026-11-06@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Opens: RADIO GALAXY
+DESCRIPTION:Opening day. Full run: 2026-11-06 through 2026-11-22.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9c62d43923e051d5-2026-11-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Last day: RADIO GALAXY
+DESCRIPTION:Closing day. Full run: 2026-11-06 through 2026-11-22.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-532865729dd9effc-2026-11-12@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:LAS MIGAS
+DESCRIPTION:One-day event. Full run: 2026-11-12 through 2026-11-12.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-374047fd63701e53-2026-11-13@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:PREACHER LAWSON
+DESCRIPTION:One-day event. Full run: 2026-11-13 through 2026-11-13.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-204a6733e223fb00-2026-11-14@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:SCREENING: THE IMPORTANCE OF BEING EARNEST
+DESCRIPTION:One-day event. Full run: 2026-11-14 through 2026-11-14.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-252bd64714d073c7-2026-11-15@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:LA OPERA: JAMIE BARTON
+DESCRIPTION:One-day event. Full run: 2026-11-15 through 2026-11-15.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9d5e21b6a1fe22d4-2026-11-18@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:NAGHASH ENSEMBLE
+DESCRIPTION:One-day event. Full run: 2026-11-18 through 2026-11-18.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-63f3d68220ca8d47-2026-11-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Opens: MANUAL CINEMA PRESENTS: LEONARDO! A WONDERFUL SHOW ABOUT A TERRIBLE MONSTER
+DESCRIPTION:Opening day. Full run: 2026-11-20 through 2026-11-21.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-63f3d68220ca8d47-2026-11-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Last day: MANUAL CINEMA PRESENTS: LEONARDO! A WONDERFUL SHOW ABOUT A TERRIBLE MONSTER
+DESCRIPTION:Closing day. Full run: 2026-11-20 through 2026-11-21.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4f1b55870bc8a321-2026-11-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LOS ANGELES CHAMBER ORCHESTRA: RUO\, BATES\, NOONE\, SCHOENBERG
+DESCRIPTION:One-day event. Full run: 2026-11-22 through 2026-11-22.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5f7914213305d845-2026-12-05@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:SANDRA BERNHARD: CAUGHT OFF GUARD
+DESCRIPTION:One-day event. Full run: 2026-12-05 through 2026-12-05.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b626ffa060fd3559-2026-12-06@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:LOS ANGELES CHAMBER ORCHESTRA: VIVALDI’S VENICE
+DESCRIPTION:One-day event. Full run: 2026-12-06 through 2026-12-06.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0ec0fdb9c82f0925-2026-12-11@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:THE STRING QUEENS
+DESCRIPTION:One-day event. Full run: 2026-12-11 through 2026-12-11.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4795354b1c0b9b4a-2026-12-12@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:JASON ROBERT BROWN & FRIENDS
+DESCRIPTION:One-day event. Full run: 2026-12-12 through 2026-12-12.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-00444616bc18ba6d-2026-12-17@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Opens: CONTRA-TIEMPO: ¡azúcar!
+DESCRIPTION:Opening day. Full run: 2026-12-17 through 2026-12-19.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-00444616bc18ba6d-2026-12-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Last day: CONTRA-TIEMPO: ¡azúcar!
+DESCRIPTION:Closing day. Full run: 2026-12-17 through 2026-12-19.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bab681cbfc7d633d-2026-12-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:LOS ANGELES CHAMBER ORCHESTRA: BACH: THE CHRISTMAS ORATORIO
+DESCRIPTION:One-day event. Full run: 2026-12-20 through 2026-12-20.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-82ce25def0e09959-2027-01-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Opens: NATIONAL THEATRE IN AMERICA @ THE WALLIS
+DESCRIPTION:Opening day. Full run: 2027-01-01 through 2027-04-30.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4d0959f15b88c061-2027-01-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Opens: DANCE RESOURCE CENTER HOMEGROWN
+DESCRIPTION:Opening day. Full run: 2027-01-01 through 2027-02-28.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ef96b7d148c10ca1-2027-01-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Opens: FILM INDEPENDENT PRESENTS @ THE WALLIS
+DESCRIPTION:Opening day. Full run: 2027-01-01 through 2027-04-30.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a3f3750f98d65342-2027-01-08@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:RITA RUDNER
+DESCRIPTION:One-day event. Full run: 2027-01-08 through 2027-01-08.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-932bca1eea242ea0-2027-01-10@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:LOS ANGELES CHAMBER ORCHESTRA: PULSE & PRECISION
+DESCRIPTION:One-day event. Full run: 2027-01-10 through 2027-01-10.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b15d0a2211b9c71d-2027-01-11@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:SCREENING: THE AUDIENCE
+DESCRIPTION:One-day event. Full run: 2027-01-11 through 2027-01-11.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-653e8be89d61db63-2027-01-16@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:SCOTT DUNN ORCHESTRA: THE EIGHTIES
+DESCRIPTION:One-day event. Full run: 2027-01-16 through 2027-01-16.\nDiscovered from The Wallis (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://thewallis.org
+LOCATION:Beverly Hills\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a2bdecaff3d957f9-2026-10-18@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Opens: Blind Runner
+DESCRIPTION:Opening day. Full run: 2026-10-18 through 2026-11-08.\nDiscovered from South Coast Repertory (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.scr.org/plays/productions/26-27-season/blind-runner/
+LOCATION:Julianne Argyros Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a2bdecaff3d957f9-2026-11-08@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Last day: Blind Runner
+DESCRIPTION:Closing day. Full run: 2026-10-18 through 2026-11-08.\nDiscovered from South Coast Repertory (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.scr.org/plays/productions/26-27-season/blind-runner/
+LOCATION:Julianne Argyros Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6b76d693ef24100d-2026-11-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Opens: A Christmas Carol
+DESCRIPTION:Opening day. Full run: 2026-11-28 through 2026-12-27.\nDiscovered from South Coast Repertory (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.scr.org/plays/productions/26-27-season/a-christmas-carol/
+LOCATION:Segerstrom Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6b76d693ef24100d-2026-12-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Last day: A Christmas Carol
+DESCRIPTION:Closing day. Full run: 2026-11-28 through 2026-12-27.\nDiscovered from South Coast Repertory (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.scr.org/plays/productions/26-27-season/a-christmas-carol/
+LOCATION:Segerstrom Stage
 END:VEVENT
 END:VCALENDAR

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:World Arts & Culture
 BEGIN:VEVENT
 UID:basel-paris-2026-10-23@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Opens: Art Basel Paris
@@ -17,7 +17,7 @@ LOCATION:Grand Palais\, Paris\, France
 END:VEVENT
 BEGIN:VEVENT
 UID:basel-paris-2026-10-25@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Last day: Art Basel Paris
@@ -28,7 +28,7 @@ LOCATION:Grand Palais\, Paris\, France
 END:VEVENT
 BEGIN:VEVENT
 UID:artissima-2026-10-29@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Opens: Artissima
@@ -39,7 +39,7 @@ LOCATION:Turin\, Italy
 END:VEVENT
 BEGIN:VEVENT
 UID:artissima-2026-11-01@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Last day: Artissima
@@ -50,7 +50,7 @@ LOCATION:Turin\, Italy
 END:VEVENT
 BEGIN:VEVENT
 UID:art-taipei-2026-10-29@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Opens: ART TAIPEI
@@ -61,7 +61,7 @@ LOCATION:Taipei\, Taiwan
 END:VEVENT
 BEGIN:VEVENT
 UID:art-taipei-2026-11-02@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Last day: ART TAIPEI
@@ -72,7 +72,7 @@ LOCATION:Taipei\, Taiwan
 END:VEVENT
 BEGIN:VEVENT
 UID:art-toronto-2026-10-29@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Opens: Art Toronto
@@ -83,7 +83,7 @@ LOCATION:Toronto\, Canada
 END:VEVENT
 BEGIN:VEVENT
 UID:art-toronto-2026-11-01@creative-edit
-DTSTAMP:20261019T150219Z
+DTSTAMP:20261019T151142Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Last day: Art Toronto
@@ -91,5 +91,3140 @@ DESCRIPTION:Closing day. Full run: 2026-10-29 through 2026-11-01.
 TRANSP:TRANSPARENT
 URL:https://my.biennale.com/art-fairs/calendar
 LOCATION:Toronto\, Canada
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f557987eb53c3bf8-2026-12-09@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Opens: Girls. Adolescence\, Fashion\, Rebellion
+DESCRIPTION:Opening day. Full run: 2026-12-09 through 2027-03-21.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/girls-adolescence-fashion-rebellion
+LOCATION:17 Avenue du Général Eisenhower\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-621371f9505654da-2026-12-16@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Opens: Mika Ninagawa with EiM · Alive with Shadows
+DESCRIPTION:Opening day. Full run: 2026-12-16 through 2027-03-21.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/mika-ninagawa-eim-alive-shadows
+LOCATION:1 Avenue Winston Churchill\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2a498793e04b3f45-2026-09-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Opens: Cezanne and Us
+DESCRIPTION:Opening day. Full run: 2026-09-23 through 2027-01-17.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/cezanne-and-us
+LOCATION:17 Avenue du Général Eisenhower\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2a498793e04b3f45-2027-01-17@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Last day: Cezanne and Us
+DESCRIPTION:Closing day. Full run: 2026-09-23 through 2027-01-17.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/cezanne-and-us
+LOCATION:17 Avenue du Général Eisenhower\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3cbb7b9e28b3acb8-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Opens: Art Basel Paris 2026
+DESCRIPTION:Opening day. Full run: 2026-10-23 through 2026-10-25.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/art-basel-paris-2026
+LOCATION:7 Avenue Winston Churchill\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3cbb7b9e28b3acb8-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Last day: Art Basel Paris 2026
+DESCRIPTION:Closing day. Full run: 2026-10-23 through 2026-10-25.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/art-basel-paris-2026
+LOCATION:7 Avenue Winston Churchill\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-886b2e0edc982d3f-2026-11-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Rebecca Saunders\, Ensemble Intercontemporain · Chroma I–XXIV (2003–26)
+DESCRIPTION:One-day event. Full run: 2026-11-21 through 2026-11-21.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/rebecca-saunders-ensemble-intercontemporain-chroma-i-xxiv-2003-26
+LOCATION:1 Place Clemenceau\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-078b61e9eb2f4d6d-2026-12-03@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Opens: Adopt AI 2026
+DESCRIPTION:Opening day. Full run: 2026-12-03 through 2026-12-04.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/adopt-ai-2026
+LOCATION:7 Avenue Winston Churchill\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-078b61e9eb2f4d6d-2026-12-04@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Last day: Adopt AI 2026
+DESCRIPTION:Closing day. Full run: 2026-12-03 through 2026-12-04.\nDiscovered from Grand Palais (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.grandpalais.fr/en/program/adopt-ai-2026
+LOCATION:7 Avenue Winston Churchill\, 75008 Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-aaf3327f5afedb94-2026-11-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Opens: Feriarte
+DESCRIPTION:Opening day. Full run: 2026-11-21 through 2026-11-29.\nDiscovered from ARCOmadrid (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.ifema.es/feriarte
+LOCATION:IFEMA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-aaf3327f5afedb94-2026-11-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Last day: Feriarte
+DESCRIPTION:Closing day. Full run: 2026-11-21 through 2026-11-29.\nDiscovered from ARCOmadrid (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.ifema.es/feriarte
+LOCATION:IFEMA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c84f8f91d64c124b-2026-11-17@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Opens: Interihotel
+DESCRIPTION:Opening day. Full run: 2026-11-17 through 2026-11-19.\nDiscovered from ARCOmadrid (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.ifema.es/interihotel
+LOCATION:IFEMA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c84f8f91d64c124b-2026-11-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Last day: Interihotel
+DESCRIPTION:Closing day. Full run: 2026-11-17 through 2026-11-19.\nDiscovered from ARCOmadrid (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.ifema.es/interihotel
+LOCATION:IFEMA
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f91a3f812e6d09c9-2027-01-14@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Opens: Maison&Objet
+DESCRIPTION:Opening day. Full run: 2027-01-14 through 2027-01-18.\nDiscovered from Maison&Objet (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.maison-objet.com
+LOCATION:Parc des expositions Paris Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f91a3f812e6d09c9-2027-01-18@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Last day: Maison&Objet
+DESCRIPTION:Closing day. Full run: 2027-01-14 through 2027-01-18.\nDiscovered from Maison&Objet (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://www.maison-objet.com
+LOCATION:Parc des expositions Paris Nord
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bb5f99f473960689-2026-10-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Ars Electronica Center closed
+DESCRIPTION:One-day event. Full run: 2026-10-19 through 2026-10-19.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/tickets/?occurrence=2026-10-19
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f928563b6bfdf581-2026-10-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-19 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-19
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f928563b6bfdf581-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-19 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-19
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1604772ab07ecb99-2026-10-19@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Opens: Luminous Patterns
+DESCRIPTION:Opening day. Full run: 2026-10-19 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-19
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1604772ab07ecb99-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Last day: Luminous Patterns
+DESCRIPTION:Closing day. Full run: 2026-10-19 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-19
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0a28bd09336a6702-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Kids&#8217\; Reseach Lab
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-reseach-lab/?occurrence=2026-10-20&#038;time=1792490400
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-17a0951779f06731-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Kids&#8217\; Culture Week 2026
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-week-2026/?occurrence=2026-10-20&#038;time=1792490400
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ba7b308141544a38-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-20&#038;time=1792492200
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-867dc47bad1432c0-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-20
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-43021c9aea9ea0ba-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-20
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-85236d853814f1ca-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-20
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ba690dc34a3e68ea-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-20
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1f418972fefdc530-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (DE) 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-20
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6b5f746dfb8ac531-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-20
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-89843d98bf198d58-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (DE) 14:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-20
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f749ae2af6137351-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-20
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2d28a12a4988912e-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-20
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-145e6c3c1c255c9f-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (CZ/SK)
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-20&#038;time=1792508400
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ae19b9af5ce92679-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Deep Space Selection (DE) 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-20
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c3b181cf392bced0-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Tardigrade-care
+DESCRIPTION:One-day event. Full run: 2026-10-20 through 2026-10-20.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/tardigrade-care/?occurrence=2026-10-20
+LOCATION:BioLab\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-eee5270119e25905-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-20 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-20
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-eee5270119e25905-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-20 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-20
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-04af0f6b5b47413e-2026-10-20@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Opens: Luminous Patterns
+DESCRIPTION:Opening day. Full run: 2026-10-20 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-20
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-04af0f6b5b47413e-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Last day: Luminous Patterns
+DESCRIPTION:Closing day. Full run: 2026-10-20 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-20
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8ff9449dc951fa64-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Kids&#8217\; Reseach Lab
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-reseach-lab/?occurrence=2026-10-21&#038;time=1792576800
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-32353bd5cfca0854-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Kids&#8217\; Culture Week 2026
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-week-2026/?occurrence=2026-10-21&#038;time=1792576800
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bc3ea6dd2a86b808-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-21
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ae0a52baf5e7cdc3-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-21
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8dcb1b9ee68acd81-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-21
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b777ae68105488c1-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-21
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4baf7749d6681929-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (DE) 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-21
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-371e6d21a1daa664-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-21
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-23825b482f6b72e1-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Family (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-21&#038;time=1792591200
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-08050a1467ca50d1-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-21
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ff9a099b15866a99-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-21
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8a15726795b7c8d9-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-21
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-aa77411b175e8130-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (EN)
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-21&#038;time=1792596600
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6804409f3f4522ca-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deep Space Selection (DE) 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-21 through 2026-10-21.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-21
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-63457f129c6c2132-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-21 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-21
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-63457f129c6c2132-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-21 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-21
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5b704236690551a2-2026-10-21@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Opens: Luminous Patterns
+DESCRIPTION:Opening day. Full run: 2026-10-21 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-21
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5b704236690551a2-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Last day: Luminous Patterns
+DESCRIPTION:Closing day. Full run: 2026-10-21 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-21
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-256e978a6705d710-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Kids&#8217\; Reseach Lab
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-reseach-lab/?occurrence=2026-10-22&#038;time=1792663200
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a62bed506216d704-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Kids&#8217\; Culture Week 2026
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-week-2026/?occurrence=2026-10-22&#038;time=1792663200
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9e4c1c736e91bb7b-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-22
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-870a8514be2cb64d-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-22
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b9190c9b2555ace8-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-22
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c66025a04129a870-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-22
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-68d19e2f6c078b66-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (DE) 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-22
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6af3452d31af2520-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-22
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3bfcb054cd674d36-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-22&#038;time=1792675800
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5eec3c3c19235ca9-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (DE) 14:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-22
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bf7c24df087fd2d8-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-22
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d63b64f9e3604a6d-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-22
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-80ea956d86e18854-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (CZ/SK)
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-22&#038;time=1792681200
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-52773cdebd3916bb-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Deep Space Selection (DE) 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-22 through 2026-10-22.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-22
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e26903823c7eb6d5-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-22 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-22
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e26903823c7eb6d5-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-22 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-22
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fd5c8762b8d931eb-2026-10-22@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Opens: Luminous Patterns
+DESCRIPTION:Opening day. Full run: 2026-10-22 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-22
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fd5c8762b8d931eb-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Last day: Luminous Patterns
+DESCRIPTION:Closing day. Full run: 2026-10-22 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-22
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bcd3d9b9bf912da2-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Kids&#8217\; Reseach Lab
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-reseach-lab/?occurrence=2026-10-23&#038;time=1792749600
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-253748827755a001-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Kids&#8217\; Culture Week 2026
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-week-2026/?occurrence=2026-10-23&#038;time=1792749600
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-85b3d86c99a1ee73-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-23
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-af8af7671f48d626-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-23
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6041b496d70d52bd-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-23
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4065062219eb8655-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-23
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3a3cda5026442738-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Selection (DE) 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-23
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-aa6ccf225c737441-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-23
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-06152fa729bf5e1f-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Selection (DE) 14:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-23
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1ac5493ee5accd2a-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Workshop: Moon Camp
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/workshop-moon-camp/?occurrence=2026-10-23
+LOCATION:Seminar Room\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6614be0a90e7c73b-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-23
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f6c135e974a39326-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-23
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d054d3956fc1233c-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Family (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-23&#038;time=1792767600
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c617499e1aedb609-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deep Space Selection (DE) 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-23
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2d34ef2aefa64882-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Kids&#8217\; Culture Deep Space
+DESCRIPTION:One-day event. Full run: 2026-10-23 through 2026-10-23.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-deep-space-2/?occurrence=2026-10-23&#038;time=1792773000
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9426051c21cf1103-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-23 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-23
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9426051c21cf1103-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-23 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-23
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-287d6d02667b5030-2026-10-23@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Opens: Luminous Patterns
+DESCRIPTION:Opening day. Full run: 2026-10-23 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-23
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-287d6d02667b5030-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Last day: Luminous Patterns
+DESCRIPTION:Closing day. Full run: 2026-10-23 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-23
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3ac38f6a56d68f88-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Kids&#8217\; Reseach Lab
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-reseach-lab/?occurrence=2026-10-24&#038;time=1792836000
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-487592ccfc78acb3-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Kids&#8217\; Culture Week 2026
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-week-2026/?occurrence=2026-10-24&#038;time=1792836000
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-377e384188d49074-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-24
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ef76f1e9b92c3dd2-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-24
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ec2ea683775b339d-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Selection (EN)
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-24&#038;time=1792839600
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e016797df4a9c19d-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Family Tour 11:30
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-24
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-375ded2b9ef0bbc7-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Family (DE) 11:30
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-family-1130/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-211ff5fe7cd12292-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-24
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-46c5676d77ad2bae-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Selection DE | AI-translated EN 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a1e8d6bb16da969f-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Family (DE) 12:30
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-84856093ffebc48d-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Special: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7e1e99bf50a0e35f-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HandsOn: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-24
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-32072ef36898008c-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Highlights Tour 13:30 (EN)
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/highlights-tour-en/?occurrence=2026-10-24
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c1a6796d0721c9d0-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Uniview: A grandiose journey through space and time (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/uniview/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-647425c488ca3f4e-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Open Engagement: Future Matters
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/open-engagement-future-matters/?occurrence=2026-10-24
+LOCATION:CitizenLab\, Ebene -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2bf18d431826aa82-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Family Tour 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-24
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bc8d703e048ade44-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4f75965d97cce499-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HandsOn: Man x Machine 14:45
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-24
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d6a61e6d73b0b041-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6dca9491b22f11f3-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-24
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-32e76a61c81f54a3-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Family (DE) 15:30
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-edae7af2e4606a9d-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HandsOn: Neuro-Bionics 15:45
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-24
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e8b75e926d866e55-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Deep Space Selection DE | AI-translated EN 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-1600/?occurrence=2026-10-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-edf238cd05bd4f6e-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Kids&#8217\; Culture Deep Space
+DESCRIPTION:One-day event. Full run: 2026-10-24 through 2026-10-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-deep-space-2/?occurrence=2026-10-24&#038;time=1792859400
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-00640eda35ca694d-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-24 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-24
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-00640eda35ca694d-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-24 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-24
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c220fd0da336d120-2026-10-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Opens: Luminous Patterns
+DESCRIPTION:Opening day. Full run: 2026-10-24 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-24
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c220fd0da336d120-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Last day: Luminous Patterns
+DESCRIPTION:Closing day. Full run: 2026-10-24 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-24
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-cd3e843f664045a6-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kids&#8217\; Reseach Lab
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-reseach-lab/?occurrence=2026-10-25&#038;time=1792922400
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c0620ea1f6f2d19a-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kids&#8217\; Culture Week 2026
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-week-2026/?occurrence=2026-10-25&#038;time=1792922400
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-119a3f5a116289e8-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-25
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-cfe3f201c6f046b9-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e937571c22142445-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-25
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fe765de665495212-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Family Tour 11:30
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-25
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-47fdc0fe580d055c-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Family (DE) 11:30
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-family-1130/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fe1345ba1358dbac-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-25
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f353282d4f0216e8-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Selection DE | AI-translated EN 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-adb86760c6136367-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Family (DE) 12:30
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5b9f279f907e9a1c-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Special: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-05db04645ab04342-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:HandsOn: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-25
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e4380a1449a7b1f6-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Highlights Tour 13:30 (EN)
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/highlights-tour-en/?occurrence=2026-10-25
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d30da428baeb0a94-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Uniview: A grandiose journey through space and time (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/uniview/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-adb20c5af4dd3dfa-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Open Engagement: Robowabohu
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/open-engagement-robowabohu/?occurrence=2026-10-25
+LOCATION:CitizenLab\, Ebene -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bdcef6fa4342723b-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Family Tour 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-25
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-cc33507e63a2a761-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f0ea2cacaf460839-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:HandsOn: Man x Machine 14:45
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-25
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a865807f2a5f50aa-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f8b9273b3bc68d0e-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-25
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2235a8a97b5aef6c-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Family (DE) 15:30
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e908692407f0b27d-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:HandsOn: Neuro-Bionics 15:45
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-25
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d4984000c0d825ce-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Tardigrade-care
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/tardigrade-care/?occurrence=2026-10-25
+LOCATION:BioLab\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e2b7479b018f9d8b-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deep Space Selection DE | AI-translated EN 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-1600/?occurrence=2026-10-25
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7933b60b95c670f5-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kids&#8217\; Culture Deep Space
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/kids-culture-deep-space-2/?occurrence=2026-10-25&#038;time=1792945800
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-df219d121a7d64b9-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-25 through 2026-10-26.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-25
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-df219d121a7d64b9-2026-10-26@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-25 through 2026-10-26.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-25
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e8fe49c906da8c4a-2026-10-25@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-25 through 2026-10-25.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-25
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fb2b821ce3df8a2b-2026-10-26@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Ars Electronica Center closed
+DESCRIPTION:One-day event. Full run: 2026-10-26 through 2026-10-26.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/tickets/?occurrence=2026-10-26
+LOCATION:Linz\, Austria
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ac94e6eee11f2de7-2026-10-26@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-26 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-26
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ac94e6eee11f2de7-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-26 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-26
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6529dc09635e7643-2026-10-26@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-26 through 2026-10-26.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-26
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-66218b6518145f10-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-27
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1655ddcfa320435f-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-27
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-39791db78a5a0062-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-27
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4b94a0c3f27f8f5d-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Family (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-27&#038;time=1793100600
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-55864ff661c09022-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Family Tour
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-27&#038;time=1793100600
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f11326ee9071f6a7-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-27
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c016312541904aba-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Selection DE | AI-translated EN
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-holidays/?occurrence=2026-10-27&#038;time=1793102400
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-eab5fe853b499c6e-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-27
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-dd839621f510b214-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Spezial: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-27&#038;time=1793106000
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-28de512c528deaac-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Presentation: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/presentation-the-world-in-tons-2/?occurrence=2026-10-27&#038;time=1793107800
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0a9aeae1722f21ad-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Uniview: A grandiose journey through space and time 14:00 (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/uniview-a-grandiose-journey-through-space-and-time-1400-de-en/?occurrence=2026-10-27&#038;time=1793109600
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-343dcf3e943cddd8-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-27
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3da279c36308543b-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:HandsOn: Man x Machine
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-27&#038;time=1793112300
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-c0614eaaa2b51e37-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-27
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0ef04e620d54935a-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-27
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7db33200d2bcf4b0-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:HandsOn: NeuroBionik
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/handson-neurobionik/?occurrence=2026-10-27&#038;time=1793115900
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-055bd30e569fdc61-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Tardigrade-care
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/tardigrade-care/?occurrence=2026-10-27
+LOCATION:BioLab\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-24bc27436dff3fbc-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-27 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-27
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-24bc27436dff3fbc-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-27 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-27
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d2ccb1c366dd88c9-2026-10-27@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-27 through 2026-10-27.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-27
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5c763dabfb5f3e36-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Holiday Program: Moon Camp
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/holiday-program-esero-mooncamp/?occurrence=2026-10-28
+LOCATION:Meeting Point: Foyer
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-86a1f9d4341ea55a-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-28
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-03f531b491e25cea-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-28
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ed2882f92741c896-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-28
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6ad210b9ee91d8c6-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Family (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-28&#038;time=1793187000
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6c0cd311cf9f73f4-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Family Tour
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-28&#038;time=1793187000
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f40b882816812171-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-28
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2032229762cc3910-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Selection DE | AI-translated EN
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-holidays/?occurrence=2026-10-28&#038;time=1793188800
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bc16eb3a63995432-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-28
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e07ee72aaa6d2c9d-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Spezial: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-28&#038;time=1793192400
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bd14a6158442e6ff-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Presentation: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/presentation-the-world-in-tons-2/?occurrence=2026-10-28&#038;time=1793194200
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8f122f0717e672d6-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Uniview: A grandiose journey through space and time 14:00 (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/uniview-a-grandiose-journey-through-space-and-time-1400-de-en/?occurrence=2026-10-28&#038;time=1793196000
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9ceb9c393d4daa5d-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-28
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ce95721bf88ab445-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:HandsOn: Man x Machine
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-28&#038;time=1793198700
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-69910e9c93ec0f71-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-28
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0f1e6804a6905b40-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-28
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2b9e0d98d3987930-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:HandsOn: NeuroBionik
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/handson-neurobionik/?occurrence=2026-10-28&#038;time=1793202300
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0fad8780d0c4ac52-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-28 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-28
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0fad8780d0c4ac52-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-28 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-28
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fa4b49d2bc0eca4e-2026-10-28@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-28 through 2026-10-28.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-28
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a0eff76b5fb0fc06-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Holiday Program: Magic Laboratory
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/holiday-program-magic-laboratory/?occurrence=2026-10-29&#038;time=1793268000
+LOCATION:Meeting Point: Foyer
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a5661f511d5d28b2-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-29
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3471863ad5fa5992-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-29
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-683a502c2992f690-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-29
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-1babb7b16ebc17e5-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Family (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-29&#038;time=1793273400
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7b769ec4ef44f0ed-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Family Tour
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-29&#038;time=1793273400
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8bc9baa18c24518f-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-29
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-94c23e9386720711-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Selection DE | AI-translated EN
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-holidays/?occurrence=2026-10-29&#038;time=1793275200
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4c094b69386866a4-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-29
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a7b9744c86404abe-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Spezial: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-29&#038;time=1793278800
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-54bd72a06d3a42af-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Presentation: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/presentation-the-world-in-tons-2/?occurrence=2026-10-29&#038;time=1793280600
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-166bb2bee87a3eef-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Uniview: A grandiose journey through space and time 14:00 (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/uniview-a-grandiose-journey-through-space-and-time-1400-de-en/?occurrence=2026-10-29&#038;time=1793282400
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-201bd33c6aed7669-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-29
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8e3518cab8971a08-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:HandsOn: Man x Machine
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-29&#038;time=1793285100
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-52b960ca9e2b8240-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-29
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-10815465e2b91aaa-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-29
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2ac23bf916da39d1-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:HandsOn: NeuroBionik
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/handson-neurobionik/?occurrence=2026-10-29&#038;time=1793288700
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-47f6f9d43d030cf3-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-29 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-29
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-47f6f9d43d030cf3-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-29 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-29
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-57c5e62b73a88ae0-2026-10-29@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-29 through 2026-10-29.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-29
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b2e3a8ac108e8514-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Holiday Program: Hack the Facade
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/holiday-program-hack-the-facade/?occurrence=2026-10-30
+LOCATION:Meeting Point: Foyer
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-878782c91c015cae-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-30
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-fa585f72a48d8d1c-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-30
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7c65d6d5d0a1dd53-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-30
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0263b949aaab3c12-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Family (DE)
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-30&#038;time=1793359800
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e49107f1024794a3-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Family Tour
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-30&#038;time=1793359800
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-983e0b99812cd8a3-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-30
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-aef4a156ee3c6c18-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Selection DE | AI-translated EN
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-holidays/?occurrence=2026-10-30&#038;time=1793361600
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6cd10c13c79ca3c6-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Selection (DE) 13:00
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-30
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-41f468857c2bf9cd-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Spezial: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-30&#038;time=1793365200
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-e230656be9097b4a-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Presentation: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/presentation-the-world-in-tons-2/?occurrence=2026-10-30&#038;time=1793367000
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9ade5a1465fef676-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Uniview: A grandiose journey through space and time 14:00 (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/uniview-a-grandiose-journey-through-space-and-time-1400-de-en/?occurrence=2026-10-30&#038;time=1793368800
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f5f0d823884dc1bd-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-30
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-00d64e64cda8e756-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:HandsOn: Man x Machine
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-30&#038;time=1793371500
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d6fcbf47e21647c2-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-30
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-54da120f888d464e-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-30
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a7a66cef99922261-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:HandsOn: NeuroBionik
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/handson-neurobionik/?occurrence=2026-10-30&#038;time=1793375100
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bc24dc2966afc670-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-30 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-30
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-bc24dc2966afc670-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-30 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-30
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3985d381cb04c569-2026-10-30@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-30 through 2026-10-30.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-30
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d9b90ab272bb4b8f-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-31
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-31e8875b0a4dee0a-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-21f1427113efbd70-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-31
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-910b9cbf90c64100-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Family Tour 11:30
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-31
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-eedef1fe3fb17acc-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Family (DE) 11:30
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-family-1130/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-69d883458db71575-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-10-31
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a74caa3be9a2a5db-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Selection DE | AI-translated EN 12:00
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-46663aee85a7608d-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Family (DE) 12:30
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-961a6f29bad5259a-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Special: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-30c54f6e299fb5ed-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HandsOn: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-31
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d0f86362db13f539-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Highlights Tour 13:30 (EN)
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/highlights-tour-en/?occurrence=2026-10-31
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-eed23581d74e8813-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Uniview: A grandiose journey through space and time (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/uniview/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8cfa876760377b03-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Family Tour 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-10-31
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4f970acced041dd8-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-863679e9f34dc00d-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HandsOn: Man x Machine 14:45
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-31
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9a22a46003868996-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4307fb97ac26cc2a-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-10-31
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-cc82db6b8e2f9402-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Family (DE) 15:30
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-22e3dbf9b85a93dd-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HandsOn: Neuro-Bionics 15:45
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-10-31
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5bacfa24a3e44e98-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deep Space Selection DE | AI-translated EN 16:00
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-1600/?occurrence=2026-10-31
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7d9c66f543e94e05-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-10-31 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-31
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7d9c66f543e94e05-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-10-31 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-10-31
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7a3ae7cfef456032-2026-10-31@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-10-31 through 2026-10-31.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-10-31
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-493470a66674c5e4-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Hurra November!
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/hurra-november/?occurrence=2026-11-01
+LOCATION:Ars Electronica Center
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-a0c3dd6ad698d0f6-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:HandsOn: Man x Machine 10:45
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-11-01
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-01c897aaf8ddc46b-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Selection (DE) 11:00
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f1f51e18ba1994fd-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Highlights Tour 11:00
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-11-01
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-f45adadc38df64fe-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Family Tour 11:30
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-11-01
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9efc70f03274ee8c-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Family (DE) 11:30
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-family-1130/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-156d4a0edc8b5ed2-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:HandsOn: Neuro-Bionics 11:45
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/handson/?occurrence=2026-11-01
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9ac91463eafeb358-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Selection DE | AI-translated EN 12:00
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-18093aed1bb28b25-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Family (DE) 12:30
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-053643f219435528-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Special: Cultural Astronomy
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/cultural-astronomy/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-0d227fe72aa5fca6-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:HandsOn: The World in Tons
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-11-01
+LOCATION:Kids' Research Laboratory\, Level +1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4dd75f6e8311a21c-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Highlights Tour 13:30 (EN)
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/highlights-tour-en/?occurrence=2026-11-01
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-93b23a58c75f887c-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Uniview: A grandiose journey through space and time (DE/EN: AI-translated)
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/uniview/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-093349f91023d392-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Family Tour 14:30
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/family-tour/?occurrence=2026-11-01
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-764781c82f166a28-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Selection (EN) 14:30
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/de/deep-space-selection/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5e5b2217d4a25422-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:HandsOn: Man x Machine 14:45
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-11-01
+LOCATION:Ars Electronica Labs\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-d5a873557e9cc3d8-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Selection (DE) 15:00
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-selection/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-98b5bfdf8a16b451-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Highlights Tour 15:00
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/highlights-tour/?occurrence=2026-11-01
+LOCATION:Registration at the ticket office required
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3cff1b59da720c5d-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Family (DE) 15:30
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/deep-space-family/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-25322499d8a8dec3-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:HandsOn: Neuro-Bionics 15:45
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/handson/?occurrence=2026-11-01
+LOCATION:Level -3
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-919bf924c3b1e845-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Tardigrade-care
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/tardigrade-care/?occurrence=2026-11-01
+LOCATION:BioLab\, Level -1
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3b8a45bbdeae203e-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Deep Space Selection DE | AI-translated EN 16:00
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-selection-de-en-1600/?occurrence=2026-11-01
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-92ae47290913b917-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Opens: Connected Façade
+DESCRIPTION:Opening day. Full run: 2026-11-01 through 2026-11-02.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-11-01
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-92ae47290913b917-2026-11-02@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Last day: Connected Façade
+DESCRIPTION:Closing day. Full run: 2026-11-01 through 2026-11-02.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/connected-facade-3/?occurrence=2026-11-01
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-b5587043be2e96aa-2026-11-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Luminous Patterns
+DESCRIPTION:One-day event. Full run: 2026-11-01 through 2026-11-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/luminous-patterns/?occurrence=2026-11-01
+LOCATION:Facade
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-ff2920928962439e-2026-11-12@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Deep Space Experience: Bosch immersive – The Altarpiece of the Last Judgement by Hieronymus Bosch
+DESCRIPTION:One-day event. Full run: 2026-11-12 through 2026-11-12.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/dse-bosch-immersive/?occurrence=2026-11-12
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2705ae0d1c7d32b0-2026-11-24@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Deep Space Lecture: Kunstpositionen –Virtual Crib of St Mary’s Cathedral and Kefermarkt Altar
+DESCRIPTION:One-day event. Full run: 2026-11-24 through 2026-11-24.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/dsl-kunstpositionen-the-virtual-crib/?occurrence=2026-11-24
+LOCATION:Deep Space 8K
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-40f1fe90db74c669-2026-12-01@creative-edit
+DTSTAMP:20261019T151142Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deep Space Lecture: A New Lens\, a New Quality of Life
+DESCRIPTION:One-day event. Full run: 2026-12-01 through 2026-12-01.\nDiscovered from Ars Electronica (organizer structured event data).
+TRANSP:TRANSPARENT
+URL:https://ars.electronica.art/center/en/events/deep-space-lecture-a-new-lens/?occurrence=2026-12-01
+LOCATION:Deep Space 8K
 END:VEVENT
 END:VCALENDAR
