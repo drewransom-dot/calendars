@@ -1,0 +1,89 @@
+{
+  "generated": "2026-10-19T15:02:08.041218",
+  "sources": [
+    {
+      "calendar": "socal",
+      "source": "MOCA",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "socal",
+      "source": "Hammer Museum",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "socal",
+      "source": "LACMA",
+      "pages_scanned": 7,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "socal",
+      "source": "The Broad",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "socal",
+      "source": "Center Theatre Group",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "national",
+      "source": "Walker Art Center",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "national",
+      "source": "The Met",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": [
+        {
+          "page": "https://www.metmuseum.org/exhibitions",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
+    },
+    {
+      "calendar": "national",
+      "source": "Art Basel Miami Beach",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "international",
+      "source": "Art Basel",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "international",
+      "source": "Paris Photo",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    },
+    {
+      "calendar": "international",
+      "source": "Venice Biennale",
+      "pages_scanned": 1,
+      "found": 0,
+      "errors": []
+    }
+  ],
+  "added": [],
+  "possible_duplicates": []
+}
