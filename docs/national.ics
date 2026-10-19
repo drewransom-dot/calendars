@@ -4,4 +4,125 @@ PRODID:-//Creative Edit//Arts Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:US Arts & Culture
+BEGIN:VEVENT
+UID:miami-week@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261207
+SUMMARY:Miami Art Week 2026
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiartweek.org/
+LOCATION:Miami\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-nada@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261206
+SUMMARY:NADA Miami
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-artmiami@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261207
+SUMMARY:Art Miami
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-context@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261207
+SUMMARY:CONTEXT Art Miami
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-designmiami@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261207
+SUMMARY:Design Miami
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-scope@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261207
+SUMMARY:SCOPE Miami Beach
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-untitled@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261207
+SUMMARY:Untitled Art Miami Beach
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-afrik@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261207
+SUMMARY:AfriKin Art Fair
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-prizm@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+SUMMARY:Prizm Art Fair
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-ink@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261207
+SUMMARY:INK Miami Art Fair
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.miamiandbeaches.com/events/art-basel/miami-art-week-fairs
+LOCATION:Miami / Miami Beach\, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:basel-miami@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Art Basel Miami Beach
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.artbasel.com/miami-beach/
+LOCATION:Miami Beach Convention Center\, Florida
+END:VEVENT
 END:VCALENDAR

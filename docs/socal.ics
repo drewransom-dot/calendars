@@ -4,4 +4,257 @@ PRODID:-//Creative Edit//Arts Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:SoCal Arts & Culture
+BEGIN:VEVENT
+UID:lacma-brockman@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20270125
+SUMMARY:The Brockman Gallery: Los Angeles\, 1967–1990
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.lacma.org/art/exhibitions/current
+LOCATION:LACMA\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:lacma-textile@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20270308
+SUMMARY:Textile Alchemy: The Art of Reiko Sudo & NUNO
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.lacma.org/art/exhibitions/current
+LOCATION:LACMA\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:lacma-cowin@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20270104
+SUMMARY:Eileen Cowin: Between Panic and Paradise
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.lacma.org/art/exhibitions/current
+LOCATION:LACMA\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:lacma-williams@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20270601
+SUMMARY:Paul R. Williams: Architect for Living
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.lacma.org/art/exhibitions/upcoming
+LOCATION:LACMA\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:lacma-roberto@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270621
+SUMMARY:Roberto Gil de Montes: Water Drops on Burning Rocks
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.lacma.org/art/exhibitions/upcoming
+LOCATION:LACMA\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-times@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20270104
+SUMMARY:In These Times: Recent Acquisitions at MOCA
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/exhibitions
+LOCATION:MOCA Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-apostol@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20270104
+SUMMARY:Alexander Apóstol: Regime\, Dramatis Personae
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/exhibitions
+LOCATION:MOCA Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-vicuna@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20270607
+SUMMARY:Cecilia Vicuña: The Dream of Water
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/exhibitions/the-dream-of-water
+LOCATION:MOCA Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-charriere@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20270607
+SUMMARY:Julian Charrière: Deep End
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/exhibitions
+LOCATION:MOCA Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:hammer-baeza@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20270405
+SUMMARY:Felipe Baeza: Anima
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://hammer.ucla.edu/exhibitions/2026/felipe-baeza-anima
+LOCATION:Hammer Museum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:hammer-mascini@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20270118
+SUMMARY:Hammer Projects: Vibeke Mascini
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://hammer.ucla.edu/exhibitions
+LOCATION:Hammer Museum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:hammer-caland@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20270301
+SUMMARY:Huguette Caland: A Life in a Few Lines
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://hammer.ucla.edu/exhibitions
+LOCATION:Hammer Museum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:hammer-viana@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20270208
+SUMMARY:Hammer Projects: Gê Viana
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://hammer.ucla.edu/exhibitions
+LOCATION:Hammer Museum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:hammer-pusey@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20270301
+SUMMARY:Mavis Pusey: Mobile Images
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://hammer.ucla.edu/exhibitions
+LOCATION:Hammer Museum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:hammer-cloud@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20270111
+SUMMARY:Hammer Projects: Mike Cloud
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://hammer.ucla.edu/exhibitions
+LOCATION:Hammer Museum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ctg-musicman@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261109
+SUMMARY:The Music Man — theatrical run
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://lb2.centertheatregroup.org/
+LOCATION:Ahmanson Theatre\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ctg-ohmary@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261207
+SUMMARY:Oh\, Mary! — theatrical run
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://lb2.centertheatregroup.org/shows-tickets/subscriptions/ahmanson-theatre/
+LOCATION:Ahmanson Theatre\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ctg-destiny@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261221
+SUMMARY:Destiny of Desire — theatrical run
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://lb2.centertheatregroup.org/
+LOCATION:Mark Taper Forum\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ctg-carol@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20270111
+SUMMARY:Christmas Carol Goes Wrong — theatrical run
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://lb2.centertheatregroup.org/shows-tickets/subscriptions/ahmanson-theatre/
+LOCATION:Ahmanson Theatre\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-play@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:Emily Mast\, PLAY: A Play — world premiere
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/
+LOCATION:MOCA Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-grandave@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Grand Ave Arts: All Access
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/
+LOCATION:Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-talk@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Cecilia Vicuña in Conversation with Elizabeth DeLoughrey
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/events/cecilia-vicua-in-conversation-with-elizabeth-deloughrey
+LOCATION:MOCA Grand Avenue\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:moca-figuring@creative-edit
+DTSTAMP:20261019T144352Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261213
+SUMMARY:Figuring Space — performance
+DESCRIPTION:
+TRANSP:TRANSPARENT
+URL:https://www.moca.org/events
+LOCATION:The Geffen Contemporary at MOCA\, Los Angeles
+END:VEVENT
 END:VCALENDAR
