@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T15:17:23.115856",
+  "generated": "2026-10-26T10:01:08.351778",
   "sources": [
     {
       "calendar": "socal",
@@ -170,7 +170,12 @@
       "source": "UCR ARTS",
       "pages_scanned": 1,
       "found": 0,
-      "errors": []
+      "errors": [
+        {
+          "page": "https://ucrarts.ucr.edu/exhibitions/",
+          "error": "The read operation timed out"
+        }
+      ]
     },
     {
       "calendar": "socal",
@@ -188,7 +193,7 @@
       "calendar": "socal",
       "source": "David Zwirner LA",
       "pages_scanned": 1,
-      "found": 14,
+      "found": 12,
       "errors": []
     },
     {
@@ -249,7 +254,7 @@
       "calendar": "socal",
       "source": "Vielmetter",
       "pages_scanned": 1,
-      "found": 3,
+      "found": 0,
       "errors": []
     },
     {
@@ -395,7 +400,7 @@
       "calendar": "socal",
       "source": "South Coast Repertory",
       "pages_scanned": 1,
-      "found": 2,
+      "found": 4,
       "errors": []
     },
     {
@@ -481,7 +486,7 @@
       "errors": [
         {
           "page": "https://www.metmuseum.org/exhibitions",
-          "error": "<urlopen error timed out>"
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ]
     },
@@ -700,7 +705,12 @@
       "source": "ICFF",
       "pages_scanned": 1,
       "found": 0,
-      "errors": []
+      "errors": [
+        {
+          "page": "https://icff.com/",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
     },
     {
       "calendar": "national",
@@ -1049,13 +1059,6 @@
     },
     {
       "calendar": "international",
-      "source": "Ars Electronica",
-      "pages_scanned": 1,
-      "found": 0,
-      "errors": []
-    },
-    {
-      "calendar": "international",
       "source": "Edinburgh Fringe",
       "pages_scanned": 1,
       "found": 0,
@@ -1069,6 +1072,47 @@
       "errors": []
     }
   ],
-  "added": [],
+  "added": [
+    {
+      "calendar": "socal",
+      "id": "auto-b1bcf7bf807b16ba",
+      "title": "MANUAL CINEMA PRESENTS: LEONARDO! A WONDERFUL SHOW ABOUT A TERRIBLE MONSTER",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "location": "Beverly Hills, CA",
+      "url": "https://thewallis.org",
+      "description": "Discovered from The Wallis (organizer structured event data)."
+    },
+    {
+      "calendar": "socal",
+      "id": "auto-1047311c28617f51",
+      "title": "FAMILY FEST | LUNAR NEW YEAR",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "location": "Beverly Hills, CA",
+      "url": "https://thewallis.org",
+      "description": "Discovered from The Wallis (organizer structured event data)."
+    },
+    {
+      "calendar": "socal",
+      "id": "auto-c126c8684fdbe01e",
+      "title": "Mother Russia",
+      "start": "2027-01-22",
+      "end": "2027-03-20",
+      "location": "Segerstrom Stage",
+      "url": "https://www.scr.org/plays/productions/26-27-season/mother-russia/",
+      "description": "Discovered from South Coast Repertory (organizer structured event data)."
+    },
+    {
+      "calendar": "socal",
+      "id": "auto-fd0b0091f1ecb5e2",
+      "title": "The Importance of Being Earnest",
+      "start": "2027-01-23",
+      "end": "2027-03-20",
+      "location": "Segerstrom Stage",
+      "url": "https://www.scr.org/plays/productions/26-27-season/the-importance-of-being-earnest/",
+      "description": "Discovered from South Coast Repertory (organizer structured event data)."
+    }
+  ],
   "possible_duplicates": []
 }
