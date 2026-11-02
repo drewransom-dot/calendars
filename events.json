@@ -728,6 +728,15 @@
       "location": "Segerstrom Stage",
       "url": "https://www.scr.org/plays/productions/26-27-season/the-importance-of-being-earnest/",
       "description": "Discovered from South Coast Repertory (organizer structured event data)."
+    },
+    {
+      "id": "auto-e948d17d305ee710",
+      "title": "Ancient Queenship",
+      "start": "2027-02-03",
+      "end": "2027-05-02",
+      "location": "Los Angeles, CA",
+      "url": "https://www.getty.edu/exhibitions/ancient-queenship",
+      "description": "Discovered from Getty (organizer structured event data)."
     }
   ],
   "national": [

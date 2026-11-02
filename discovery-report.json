@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T10:01:08.351778",
+  "generated": "2026-11-02T10:22:48.356154",
   "sources": [
     {
       "calendar": "socal",
@@ -40,7 +40,7 @@
       "calendar": "socal",
       "source": "Getty",
       "pages_scanned": 1,
-      "found": 9,
+      "found": 10,
       "errors": []
     },
     {
@@ -193,7 +193,7 @@
       "calendar": "socal",
       "source": "David Zwirner LA",
       "pages_scanned": 1,
-      "found": 12,
+      "found": 8,
       "errors": []
     },
     {
@@ -276,7 +276,12 @@
       "source": "Anat Ebgi",
       "pages_scanned": 1,
       "found": 0,
-      "errors": []
+      "errors": [
+        {
+          "page": "https://anatebgi.com/exhibitions/",
+          "error": "not an HTML response"
+        }
+      ]
     },
     {
       "calendar": "socal",
@@ -337,12 +342,7 @@
       "source": "Palm Springs Modernism Week",
       "pages_scanned": 1,
       "found": 0,
-      "errors": [
-        {
-          "page": "https://modernismweek.com/",
-          "error": "HTTP Error 403: Forbidden"
-        }
-      ]
+      "errors": []
     },
     {
       "calendar": "socal",
@@ -393,8 +393,13 @@
       "calendar": "socal",
       "source": "The Wallis",
       "pages_scanned": 1,
-      "found": 25,
-      "errors": []
+      "found": 0,
+      "errors": [
+        {
+          "page": "https://thewallis.org/",
+          "error": "The read operation timed out"
+        }
+      ]
     },
     {
       "calendar": "socal",
@@ -547,7 +552,12 @@
       "source": "Cooper Hewitt",
       "pages_scanned": 1,
       "found": 0,
-      "errors": []
+      "errors": [
+        {
+          "page": "https://www.cooperhewitt.org/exhibitions/",
+          "error": "The read operation timed out"
+        }
+      ]
     },
     {
       "calendar": "national",
@@ -788,7 +798,12 @@
       "source": "Venice Biennale",
       "pages_scanned": 1,
       "found": 0,
-      "errors": []
+      "errors": [
+        {
+          "page": "https://www.labiennale.org/en/art/2026",
+          "error": "<urlopen error timed out>"
+        }
+      ]
     },
     {
       "calendar": "international",
@@ -1075,43 +1090,13 @@
   "added": [
     {
       "calendar": "socal",
-      "id": "auto-b1bcf7bf807b16ba",
-      "title": "MANUAL CINEMA PRESENTS: LEONARDO! A WONDERFUL SHOW ABOUT A TERRIBLE MONSTER",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "location": "Beverly Hills, CA",
-      "url": "https://thewallis.org",
-      "description": "Discovered from The Wallis (organizer structured event data)."
-    },
-    {
-      "calendar": "socal",
-      "id": "auto-1047311c28617f51",
-      "title": "FAMILY FEST | LUNAR NEW YEAR",
-      "start": "2027-01-23",
-      "end": "2027-01-23",
-      "location": "Beverly Hills, CA",
-      "url": "https://thewallis.org",
-      "description": "Discovered from The Wallis (organizer structured event data)."
-    },
-    {
-      "calendar": "socal",
-      "id": "auto-c126c8684fdbe01e",
-      "title": "Mother Russia",
-      "start": "2027-01-22",
-      "end": "2027-03-20",
-      "location": "Segerstrom Stage",
-      "url": "https://www.scr.org/plays/productions/26-27-season/mother-russia/",
-      "description": "Discovered from South Coast Repertory (organizer structured event data)."
-    },
-    {
-      "calendar": "socal",
-      "id": "auto-fd0b0091f1ecb5e2",
-      "title": "The Importance of Being Earnest",
-      "start": "2027-01-23",
-      "end": "2027-03-20",
-      "location": "Segerstrom Stage",
-      "url": "https://www.scr.org/plays/productions/26-27-season/the-importance-of-being-earnest/",
-      "description": "Discovered from South Coast Repertory (organizer structured event data)."
+      "id": "auto-e948d17d305ee710",
+      "title": "Ancient Queenship",
+      "start": "2027-02-03",
+      "end": "2027-05-02",
+      "location": "Los Angeles, CA",
+      "url": "https://www.getty.edu/exhibitions/ancient-queenship",
+      "description": "Discovered from Getty (organizer structured event data)."
     }
   ],
   "possible_duplicates": []
