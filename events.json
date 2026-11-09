@@ -737,6 +737,33 @@
       "location": "Los Angeles, CA",
       "url": "https://www.getty.edu/exhibitions/ancient-queenship",
       "description": "Discovered from Getty (organizer structured event data)."
+    },
+    {
+      "id": "auto-328cdf10600520c0",
+      "title": "PASSING THE CROWN: CELEBRATING THE QUEENS OF HIP HOP",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "location": "Beverly Hills, CA",
+      "url": "https://thewallis.org",
+      "description": "Discovered from The Wallis (organizer structured event data)."
+    },
+    {
+      "id": "auto-8deeaef07be48e09",
+      "title": "LOS ANGELES BALLET: MOVERS AND SHAKERS",
+      "start": "2027-02-04",
+      "end": "2027-02-06",
+      "location": "Beverly Hills, CA",
+      "url": "https://thewallis.org",
+      "description": "Discovered from The Wallis (organizer structured event data)."
+    },
+    {
+      "id": "auto-eec1567b1d325cf5",
+      "title": "PACIFIC JAZZ ORCHESTRA FEAT. KANDACE SPRINGS",
+      "start": "2027-02-09",
+      "end": "2027-02-09",
+      "location": "Beverly Hills, CA",
+      "url": "https://thewallis.org",
+      "description": "Discovered from The Wallis (organizer structured event data)."
     }
   ],
   "national": [
